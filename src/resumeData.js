@@ -17,7 +17,7 @@ let resumeData = {
           "className":"fa fa-github"
         },
         {
-          "name":"skype",
+          "name":"instagram",
           "url":"https://www.instagram.com/trondog/",
           "className":"instagramr"
         }
